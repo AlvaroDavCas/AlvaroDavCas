@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 
-I am a student of Multiplatform Application Development (DAM), currently in my first year. I am beginning to build a solid foundation in programming and exploring different areas of development, both in mobile and desktop environments. I enjoy learning new things, improving my skills, and working on projects that are useful, creative, and interesting.
+I am a student of Multiplatform Application Development (DAM), currently in my second year. I am beginning to build a solid foundation in programming and exploring different areas of development, both in mobile and desktop environments. I enjoy learning new things, improving my skills, and working on projects that are useful, creative, and interesting.
 
 <br><br><br>
 
